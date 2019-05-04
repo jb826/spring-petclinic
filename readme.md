@@ -133,4 +133,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 Description section
 * Test build after commit tes2
-* Test str 53
+* Test str 54
